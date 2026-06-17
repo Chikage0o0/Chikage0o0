@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Chikage0o0's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 4138, Total Commits  : 3830, Total PRs: 67, Total Issues: 42, Contributed to (last year): 26</desc>
+        <desc id="descId">Total Stars Earned: 4139, Total Commits  : 3960, Total PRs: 67, Total Issues: 42, Contributed to (last year): 26</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 59.32565201325064;
+        stroke-dashoffset: 59.071612726516086;
       }
     }
   
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >3.8k</text>
+      >4k</text>
     </g>
   </g><g transform="translate(0, 58)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
